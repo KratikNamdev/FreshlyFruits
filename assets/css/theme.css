@@ -4512,10 +4512,10 @@ blockquote {
     border-radius: 20px;
 }
 @media (max-width: 500px) {
-    .theme-tabs{
+    /* .theme-tabs{
         display: flex;
         flex-direction: row;
         align-items: center;
         overflow-x: auto;
-    }
+    } */
 }
