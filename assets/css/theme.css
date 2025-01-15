@@ -1225,7 +1225,7 @@ blockquote {
 
 .prod-icons > a {
     background-color: #fff;
-    color: #dedede;
+    color: #7FBA00;
     font-size: 20px;
     height: 45px;
     line-height: 45px;
@@ -1243,12 +1243,12 @@ padding: 10px 15px;
 }
 
 .prod-icons > a:hover {
-    background-color: #92d2a7;
+    background-color: #7FBA00;
     color: #fff;
 }
 
 .prod-icons > a:nth-child(2n):hover {
-    background-color: #79d1d6;
+    background-color: #7FBA00;
 }
 
 .product-box:hover .prod-icons {
@@ -1521,6 +1521,7 @@ padding: 10px 15px;
 
     transition: all 0.4s ease-in-out 0s;
     -webkit-transition: all 0.4s ease-in-out 0s;
+    
 }
 
 .home-wrap .main-header {
@@ -1595,7 +1596,7 @@ padding: 10px 15px;
 }
 
 .primary-navbar > li .dropdown-menu a {
-    font-size: 12px;
+    font-size: 18px;
     text-transform: capitalize;
 }
 
@@ -4472,7 +4473,7 @@ blockquote {
 
 
 .logo{
-    height: 50px;
+    height: 80px;
 }
 .logo-img{
     height: 100px;
