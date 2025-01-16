@@ -3434,13 +3434,13 @@ header.main-header.header-02-main.is-sticky{margin: 0;}
     }
 
     .shop-content .product-media {
-        width: 300px
+        width: 100%
     }
 }
 
 @media (max-width: 380px) {
     .shop-content .product-media {
-        width: 280px
+        width: 100%;
     }
 }
 
