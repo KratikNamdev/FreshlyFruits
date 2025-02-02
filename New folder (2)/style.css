@@ -144,3 +144,14 @@ footer p{
     padding-bottom: 10px;
 
 }
+.ordernow{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.ordernow img{
+    width: 100px;
+}
